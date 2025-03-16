@@ -8,6 +8,8 @@ public class Test10Application {
 
 	public static void main(String[] args) {
 		System.out.println("Raju");
+		int = 10;
+		String name = "Raju Babu";
 		SpringApplication.run(Test10Application.class, args);
 	}
 
